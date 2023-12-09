@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jb4afiq</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello">Hello blank fragment</string>
+    <string name="recipes">Recipes</string>
+    <string name="favorit">Favorit</string>
+    <string name="profile">Profile</string>
+</resources>
